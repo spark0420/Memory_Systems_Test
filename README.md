@@ -12,7 +12,7 @@ The code for generating the data is edited depends on my labtop's OS.
 
 ## Questions
 
-**bold text If necessary, modify the code in Figure 2.32 to measure the following system characteristics. Plot the experimental results with elapsed time on the y-axis and the memory stride on the x-axis. Use logarithmic scales for both axes, and draw a line for each cache size. bold text**
+**If necessary, modify the code in Figure 2.32 to measure the following system characteristics. Plot the experimental results with elapsed time on the y-axis and the memory stride on the x-axis. Use logarithmic scales for both axes, and draw a line for each cache size.**
 
 
 1. What is the system page size?
